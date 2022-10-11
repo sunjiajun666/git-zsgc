@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ZSGCjavaweb">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZSGCjavaweb</output-path>
+    <root id="archive" name="ZSGCjavaweb.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ZSCGdemo6" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
